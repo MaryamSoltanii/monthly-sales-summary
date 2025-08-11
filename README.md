@@ -4,7 +4,7 @@ This project contains an Oracle PL/SQL procedure to generate a monthly sales sum
 It includes schema creation scripts, sequence creation scripts, and the main procedure with error handling and logging.
 
 
-# Sample Run / Test Data
+### Sample Run / Test Data
 
 INSERT INTO regions (region_id, region_name)
 VALUES (1, 'North'), (2, 'South');
