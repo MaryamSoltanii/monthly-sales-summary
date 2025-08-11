@@ -1,0 +1,9 @@
+CREATE SEQUENCE monthly_sales_summary_seq
+    START WITH 1
+    INCREMENT BY 1
+    NOCACHE;
+
+CREATE SEQUENCE error_log_seq
+    START WITH 1
+    INCREMENT BY 1
+    NOCACHE;
